@@ -1,6 +1,6 @@
 # 📰 NewsFetch-CLI
 
-A Python-based command-line app that lets users search and read news articles on any topic using the [NewsAPI](https://www.notion.so/(%3Chttps://newsapi.org/%3E)).
+A Python-based command-line app that lets users search and read news articles on any topic using the [NewsAPI](https://newsapi.org/)
 
 This is my 4th mini project in a self-driven weekly series to sharpen Python skills through real-world builds.
 
@@ -20,7 +20,7 @@ This is my 4th mini project in a self-driven weekly series to sharpen Python ski
 
 - Prompts the user to enter a news topic (e.g., "AI", "SpaceX", "Climate")
 - Automatically calculates a date range (last 2 months)
-- Fetches relevant articles using the [NewsData.io](http://newsdata.io/) API
+- Fetches relevant articles using the [NewsAPI](https://newsapi.org/) 
 - Displays a numbered list of results (most recent first)
 
 ---
@@ -74,7 +74,7 @@ This project is licensed under the MIT License.
 
 🙌 Acknowledgements
 
-[1.newsapi.org](http://1.newsapi.org/) – for providing a beginner-friendly news API
+[NewsAPI](https://newsapi.org/)  – for providing a beginner-friendly news API
 
 2.Open-source Python community
 
